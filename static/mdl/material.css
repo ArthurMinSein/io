@@ -3048,7 +3048,7 @@ ul, ol {
   background-color: rgb(48,63,159) !important; }
 
 .mdl-color--accent {
-  background-color: rgb(255,64,129) !important; }
+  background-color: rgb(63,81,181) !important; }
 
 .mdl-color--accent-contrast {
   background-color: rgb(255,255,255) !important; }
@@ -7557,7 +7557,7 @@ input.mdl-button[type="submit"] {
   padding: 0;
   border: none;
   min-height: 64px;
-  max-height: 1000px;
+  max-height: 250px;
   z-index: 3;
   background-color: rgb(63,81,181);
   color: rgb(255,255,255);
